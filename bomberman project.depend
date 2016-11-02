@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1477792338 source:c:\users\wille\desktop\hheshe\bomberman\main.cpp
+	<iostream>
+	"bomberman.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1478016761 c:\users\wille\desktop\hheshe\bomberman\bomberman.h
+	<vector>
+
+1478011798 source:c:\users\wille\desktop\hheshe\bomberman\bomberman.cpp
+	<iostream>
+	"bomberman.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1478015662 source:c:\users\wille\desktop\hheshe\bomberman\players.cpp
+	<iostream>
+	"bomberman.h"
+	<vector>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cstdio>
+	<ctime>
+
+1477680953 source:c:\users\wille\desktop\hheshe\bomberman\bots.cpp
+	<iostream>
+	"bomberman.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1478029798 source:c:\users\wille\desktop\hheshe\bomberman\game.cpp
+	<iostream>
+	"bomberman.h"
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1478028637 source:c:\users\wille\desktop\hheshe\bomberman\bomb.cpp
+	<iostream>
+	"bomberman.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

@@ -20,7 +20,7 @@ int main()
     cout << "|B O M B E R M A N|\n";
     cout << "|=================|\n";
     cout << "| 1. Play vs BoT  |\n";
-    cout << "| 2. Play online  |\n";
+    cout << "| 2. ???          |\n";
     cout << "|_________________|\n";
     cin >> Choice;
 
